@@ -1,5 +1,7 @@
 # Advance Authentication Mern Stack Project
 
+![Adsız tasarım (4)](https://github.com/user-attachments/assets/c4dd1f3e-3d76-4ef2-b336-bdaf4e574c5c)
+
 This project has been done using full stack mern technologies, in addition to registering, logging in and logging out, email verification checks whether the members are verified or not, and you can reset and recreate your password with the password sent to your email using the forgot my password section. Apart from these, it checks whether the user is authenticated or not and protects the paths. Mailtrap has been used for mail structures and zustand has been preferred for global state management.
 
 Backend Tech:
