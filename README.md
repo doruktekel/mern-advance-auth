@@ -4,7 +4,7 @@ This project has been done using full stack mern technologies, in addition to re
 
 Backend Tech:
 -  bcryptjs
-=  cookie-parser
+-  cookie-parser
 -  cors
 -  crypto
 -  dotenv
@@ -24,10 +24,10 @@ Front Tech:
 
 ```
 PORT = 5005
-MONGO_URI =
-JWT_SECRET_KEY =
+MONGO_URI = ...
+JWT_SECRET_KEY = ...
 NODE_ENV = development
-MAILTRAP_TOKEN = 6f495bec10474a7fc71cfbca017892d7
+MAILTRAP_TOKEN = ...
 MAILTRAP_ENDPOINT=https://send.api.mailtrap.io/
 CLIENT_URL = http://localhost:5173
 ```
