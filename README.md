@@ -4,6 +4,8 @@
 
 This project has been done using full stack mern technologies, in addition to registering, logging in and logging out, email verification checks whether the members are verified or not, and you can reset and recreate your password with the password sent to your email using the forgot my password section. Apart from these, it checks whether the user is authenticated or not and protects the paths. Mailtrap has been used for mail structures and zustand has been preferred for global state management.
 
+For Live Demo : https://mern-advance-auth-rjx5.onrender.com/
+
 Backend Tech:
 -  bcryptjs
 -  cookie-parser
